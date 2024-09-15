@@ -61,3 +61,4 @@ to develop your own fully functional applications!
 - [Differences Between Procedural and Object-Oriented Programming - GeeksforGeeks](https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/#:~:text=Object%2Doriented%20programming%20is%20based,the%20concept%20of%20procedure%20abstraction.)
 
 [python docs]: https://docs.python.org/3/
+# python-p3-conclusion-to-object-oriented-programming
